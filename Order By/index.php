@@ -85,7 +85,7 @@
         <form method="post">
             <h1>MySQL Order By :</h1><br>
             <br>
-            <button type="submit" name="submit">Select</button>
+            <button type="submit" name="submit">Sorted Select</button>
         </form>
     </header>
 
